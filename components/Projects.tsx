@@ -12,7 +12,7 @@ const projectData: Project[] = [
       'Created reusable UX components and integrated Google Maps API for interactive previews.',
     ],
     techStack: ['Node.js', 'Express.js', 'MongoDB', 'Bootstrap', 'EJS'],
-    imageUrl: 'https://images.unsplash.com/photo-1521401830884-6c03c1c87c9b?q=80&w=500&h=350&auto=format&fit=crop',
+    imageUrl:'http://googleusercontent.com/image_collection/image_retrieval/1109474750893912554_0',
     link: 'https://github.com/rahul30i',
   },
   {
